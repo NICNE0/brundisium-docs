@@ -1,7 +1,6 @@
 +++
 title = "Introducción"
-description = ""
-weight = 1
+description = "Introduccion a los textos y documentos del universo de Brundisium"
 +++
 
 En una partida cada jugador crea un aventurero (también llamado personaje) y forma equipo con otros aventureros (controlados por amigos). Un jugador asume el papel del Dungeon Master (M&M, Main Man m&m): el narrador principal y árbitro del juego. El DM crea aventuras para los personajes, que se enfrentan a las dificultades y deciden qué caminos explorar.
