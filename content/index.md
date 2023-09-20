@@ -9,4 +9,4 @@ Este sitio alberga todos los documentos relacionados con el lore, las reglas de 
 
 ¡Que comience la aventura!
 
-![Bandera de Brundisium](img/flag.jpg)
+ <p><img src="img/flag.jpg" alt="Bandera de Brundisium"  height="150"></p>
