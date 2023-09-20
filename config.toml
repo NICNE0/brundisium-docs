@@ -1,4 +1,5 @@
 baseURL = "https://nicne0.github.io/brundisium-docs/"
+publishDir = "docs"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
