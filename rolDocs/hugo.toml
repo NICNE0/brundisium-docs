@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme = "github.com/gohugoio/hugo-mod-bootstrap-scss"
+
+[[module.imports]]
+    path = "github.com/gohugoio/hugo-mod-jslibs-dist/popperjs"
+
