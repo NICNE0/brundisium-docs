@@ -1,30 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Getting started on Ace documentation</title>
-    <link>https://nicne0.github.io/brundisium-docs/getting-started/</link>
-    <description>Recent content in Getting started on Ace documentation</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nicne0.github.io/brundisium-docs/getting-started/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Installation</title>
-      <link>https://nicne0.github.io/brundisium-docs/getting-started/installation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicne0.github.io/brundisium-docs/getting-started/installation/</guid>
-      <description>Installing Ace is easy. Just install the Hugo binary, create a new site and install the Ace theme.Installing Hugo In order to run this theme, you need to install Hugo on your system. This theme requires Hugo&amp;rsquo;s extended version to support SCSS compilation, so make please sure you install the extended version. For more detailed information and other methods of installation you can visit the Hugo installation guide.</description>
-    </item>
-    
-    <item>
-      <title>Usage</title>
-      <link>https://nicne0.github.io/brundisium-docs/getting-started/usage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicne0.github.io/brundisium-docs/getting-started/usage/</guid>
-      <description>With the site created and the theme installed, it&amp;rsquo;s time to run the server and create content.Starting &amp;amp; building the site Development server To start the site for development mode, execute the following command while in your /docs folder: Copyhugo server This will start a server on your localhost that will live-update with any changes you make to your site.
-For more Hugo commands visit https://gohugo.io/commands/
-Building for production To build the site for your production environment, as in, to serve it to your users through a web server, execute the following command.</description>
-    </item>
-    
-  </channel>
-</rss>

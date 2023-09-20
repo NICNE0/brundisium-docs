@@ -1,122 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ace documentation</title>
-    <link>https://nicne0.github.io/brundisium-docs/</link>
-    <description>Recent content on Ace documentation</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nicne0.github.io/brundisium-docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Alerts</title>
-      <link>https://nicne0.github.io/brundisium-docs/shortcodes/alerts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicne0.github.io/brundisium-docs/shortcodes/alerts/</guid>
-      <description>The alerts shortcode allows you to let information stand out by means of an alert styled box. This can be used to indicate danger, warning, success or info.
-I&amp;rsquo;m a danger alertI&amp;rsquo;m a warning alertI&amp;rsquo;m a success alertI&amp;rsquo;m an info alertUsage Place the following shortcode on the page Copy[content]Parameters Style The style parameter is directly applied to the alert as a class in the format &amp;quot;{STYLE}&amp;quot;.</description>
-    </item>
-    
-    <item>
-      <title>Installation</title>
-      <link>https://nicne0.github.io/brundisium-docs/getting-started/installation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicne0.github.io/brundisium-docs/getting-started/installation/</guid>
-      <description>Installing Ace is easy. Just install the Hugo binary, create a new site and install the Ace theme.Installing Hugo In order to run this theme, you need to install Hugo on your system. This theme requires Hugo&amp;rsquo;s extended version to support SCSS compilation, so make please sure you install the extended version. For more detailed information and other methods of installation you can visit the Hugo installation guide.</description>
-    </item>
-    
-    <item>
-      <title>Buttons</title>
-      <link>https://nicne0.github.io/brundisium-docs/shortcodes/buttons/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicne0.github.io/brundisium-docs/shortcodes/buttons/</guid>
-      <description>The button shortcode allows you to add a button to the page. This button is a HTML anchor element and can thus be used to link to another page or website.
-ButtonButtonButtonButtonButtonButtonButtonUsage Place the following shortcode on the page Copy[content]Parameters style The style parameter is directly applied to the alert as a class in the format &amp;ldquo;btn-{STYLE}&amp;rdquo;. Bootstrap comes with a variety of styles that can be used with this:</description>
-    </item>
-    
-    <item>
-      <title>Usage</title>
-      <link>https://nicne0.github.io/brundisium-docs/getting-started/usage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicne0.github.io/brundisium-docs/getting-started/usage/</guid>
-      <description>With the site created and the theme installed, it&amp;rsquo;s time to run the server and create content.Starting &amp;amp; building the site Development server To start the site for development mode, execute the following command while in your /docs folder: Copyhugo server This will start a server on your localhost that will live-update with any changes you make to your site.
-For more Hugo commands visit https://gohugo.io/commands/
-Building for production To build the site for your production environment, as in, to serve it to your users through a web server, execute the following command.</description>
-    </item>
-    
-    <item>
-      <title>Childpages</title>
-      <link>https://nicne0.github.io/brundisium-docs/shortcodes/childpages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicne0.github.io/brundisium-docs/shortcodes/childpages/</guid>
-      <description>The childpages shortcode allows you to show a list of sub-pages of the current page. For example, the Getting started page of this documentation has three child pages: Installation, Configuration and Creating content. Placing the childpages shortcode in the Getting started page will place a create a list of these sub-pages in that page.
-Usage Simply place the following shortcode on the page CopyGetting started Configuration Shortcodes </description>
-    </item>
-    
-    <item>
-      <title>Code</title>
-      <link>https://nicne0.github.io/brundisium-docs/shortcodes/code/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicne0.github.io/brundisium-docs/shortcodes/code/</guid>
-      <description>Add code to your page with syntax highlighting and a copy button so your users can easily copy the code to their clipboard with the press of a button. The code may be entered inside the shortcode or come from an external file.
-Copy&amp;lt;div class=&amp;#34;mydiv bg-primary shadow text-white&amp;#34;&amp;gt; &amp;lt;h1 class=&amp;#34;title&amp;#34;&amp;gt;Hi there&amp;lt;/h1&amp;gt; &amp;lt;p class=&amp;#34;lead&amp;#34;&amp;gt;I&amp;#39;m inside a code shortcode. Check out my syntax highlighting!.&amp;lt;/p&amp;gt; &amp;lt;/div&amp;gt; Usage Simply place the following shortcode on the page</description>
-    </item>
-    
-    <item>
-      <title>Collapse</title>
-      <link>https://nicne0.github.io/brundisium-docs/shortcodes/collapse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicne0.github.io/brundisium-docs/shortcodes/collapse/</guid>
-      <description>Feel like hiding some content from your visitor in a collapsible element? The collapse shortcode does exactly that. It creates a button that shows or hides the content in the shortcode on request.
-Click me to show contentHi there, I&#39;m the hidden content. Didn&#39;t see that one coming, huh?Usage Simply place the following shortcode on the page CopyTITLE[content] Parameters title The lang parameter defines the text to show in the button that toggles the collapse content.</description>
-    </item>
-    
-    <item>
-      <title>Doublecode</title>
-      <link>https://nicne0.github.io/brundisium-docs/shortcodes/doublecode/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicne0.github.io/brundisium-docs/shortcodes/doublecode/</guid>
-      <description>The doublecode shortcode works the same as the code shortcode, but extends the functionality by also rendering the code in the page. This is useful for showing the code of HTML elements in your page.
-Hi there
-I&#39;m inside a doublecode shortcode, that&#39;s why I look so fancy.
-Copy&amp;lt;div class=&amp;#34;mydiv bg-primary shadow text-white p-3 m-4 border-primary&amp;#34;&amp;gt; &amp;lt;p class=&amp;#34;h4 title&amp;#34;&amp;gt;Hi there&amp;lt;/p&amp;gt; &amp;lt;p class=&amp;#34;lead mb-0&amp;#34;&amp;gt;I&amp;#39;m inside a doublecode shortcode, that&amp;#39;s why I look so fancy.</description>
-    </item>
-    
-    <item>
-      <title>Lead</title>
-      <link>https://nicne0.github.io/brundisium-docs/shortcodes/lead/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicne0.github.io/brundisium-docs/shortcodes/lead/</guid>
-      <description>The lead shortcode creates a paragraph with the lead class to make it stand out. Great for introductions or summaries.
-I&amp;rsquo;m a lead paragraph. That means I&amp;rsquo;m more important. And you can see that.Usage Simply place the following shortcode on the page Copy[content]</description>
-    </item>
-    
-    <item>
-      <title>Panel</title>
-      <link>https://nicne0.github.io/brundisium-docs/shortcodes/panel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicne0.github.io/brundisium-docs/shortcodes/panel/</guid>
-      <description>Draw your visitor&amp;rsquo;s attention by separating information from the rest of the page using a panel. Convey meaning to this information by using colors implying danger, warning, success or info in a similar fashion as alerts.
-I&amp;#39;m importantBe sure to read me, I might have important information for you.Usage Simply place the following shortcode on the page CopyTITLE[content]Parameters Style The style parameter is directly applied to the alert as a class in the format &amp;ldquo;border-{STYLE}&amp;rdquo;.</description>
-    </item>
-    
-    <item>
-      <title>Table</title>
-      <link>https://nicne0.github.io/brundisium-docs/shortcodes/table/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nicne0.github.io/brundisium-docs/shortcodes/table/</guid>
-      <description>The table shortcode allows you to wrap your tables in a table class, providing styling to the table such as borders, stripes and hover effects.
-Tables are cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1 Usage Place the following shortcode on the page CopyTables are cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1 Parameters Style The style parameter is directly applied to the table as a class in the format &amp;quot;{STYLE}&amp;quot;.</description>
-    </item>
-    
-  </channel>
-</rss>
