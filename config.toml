@@ -3,12 +3,12 @@ publishDir = "docs"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Ace documentation"
+title = "Brundisium"
 theme = "ace-documentation"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
-defaultContentLanguage = "en"
+# defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
