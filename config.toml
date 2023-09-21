@@ -3,7 +3,7 @@ publishDir = "docs"
 
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Brundisium"
+title = "ARCHIVO BRUNDISIO"
 theme = "ace-documentation"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
@@ -30,17 +30,17 @@ menushortcutsnewtab = true # set true to open shortcuts links to a new tab/windo
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
-[[menu.shortcuts]]
-name = "More from us"
-url = "https://vantage-design.com"
-weight = 1
+# [[menu.shortcuts]]
+# name = "More from us"
+# url = "https://vantage-design.com"
+# weight = 1
 
-[[menu.shortcuts]]
-name = "<i class='fab fa-github'></i>"
-url = "https://github.com/vantagedesign/ace-documentation"
-weight = 2
+# [[menu.shortcuts]]
+# name = "<i class='fab fa-github'></i>"
+# url = "https://github.com/vantagedesign/ace-documentation"
+# weight = 2
 
-[[menu.shortcuts]]
-name = "<button class='btn btn-success mt-n1'>Download</button>"
-url = "https://github.com/vantagedesign/ace-documentation/releases"
-weight = 3
+# [[menu.shortcuts]]
+# name = "<button class='btn btn-success mt-n1'>Download</button>"
+# url = "https://github.com/vantagedesign/ace-documentation/releases"
+# weight = 3
