@@ -1,6 +1,6 @@
 +++
 title = "II. Creación de Personajes"
-description = ""
+description = "creacion de personajes"
 weight = 1
 +++
 
