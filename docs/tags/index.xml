@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ARCHIVO BRUNDISIO</title>
-    <link>https://nicne0.github.io/brundisium-docs/tags/</link>
+    <link>https://docs.brundisium.org/tags/</link>
     <description>Recent content in Tags on ARCHIVO BRUNDISIO</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nicne0.github.io/brundisium-docs/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://docs.brundisium.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
