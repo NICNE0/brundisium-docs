@@ -1,4 +1,4 @@
-baseURL = "https://nicne0.github.io/brundisium-docs/"
+baseURL = "https://docs.brundisium.org"
 publishDir = "docs"
 
 languageCode = "en-us"
