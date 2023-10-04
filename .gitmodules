@@ -1,0 +1,3 @@
+[submodule "themes/ace-documentation-brundisium"]
+	path = themes/ace-documentation-brundisium
+	url = https://github.com/NICNE0/ace-documentation-brundisium.git
