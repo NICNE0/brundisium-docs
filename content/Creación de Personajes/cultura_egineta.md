@@ -1,6 +1,5 @@
 +++
 title = "Cultura Egineta"
-description = "cultura de Egineta"
 weight = 1
 +++
 

@@ -1,6 +1,5 @@
 +++
 title = "Cultura Brundisia"
-description = "cultura de Brundisium"
 weight = 1
 +++
 
