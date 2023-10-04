@@ -4,7 +4,7 @@ publishDir = "docs"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "ARCHIVO BRUNDISIO"
-theme = "ace-documentation"
+theme = "ace-documentation-brundisium"
 pygmentsCodeFences = true
 pygmentsStyle = "monokailight"
 
@@ -37,10 +37,10 @@ home = [ "HTML", "RSS", "JSON"]
 
 # [[menu.shortcuts]]
 # name = "<i class='fab fa-github'></i>"
-# url = "https://github.com/vantagedesign/ace-documentation"
+# url = "https://github.com/NICNE0/ace-documentation-brundisium"
 # weight = 2
 
 # [[menu.shortcuts]]
 # name = "<button class='btn btn-success mt-n1'>Download</button>"
-# url = "https://github.com/vantagedesign/ace-documentation/releases"
+# url = "https://github.com/NICNE0/ace-documentation-brundisium/releases"
 # weight = 3
