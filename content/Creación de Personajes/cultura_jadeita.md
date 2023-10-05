@@ -5,7 +5,6 @@ weight = 1
 
 Originaria de las vastas selvas y grandes pirámides de la Confederación de Jade, esta cultura es conocida por su conexión con la naturaleza y sus impresionantes obras publicas. Su vasto territorio se extiende desde las planicies Australes hasta el Mar Medio, con **Yax-tun**, su majestuosa capital, como el corazón palpitante del imperio.
 
-{{< collapse title="Perks Culturales" >}} 
 {{< table style="table-hover" >}}
 | Perk | Descripción | Efecto |
 | :------------- |:-------------| :-----|
@@ -13,7 +12,6 @@ Originaria de las vastas selvas y grandes pirámides de la Confederación de Jad
 | Sangre y Sacrificio     | Los Jadeanos, con sus imponentes pirámides de piedra y sus<br> complejos rituales, manifiestan su habilidad de mantener el orden<br> en su mundo, entendiendo la importancia del equilibrio entre<br> la vida y la muerte.     |   CARISMA +2<br> CONSTITUCÓN+1 |
 | Legado de Yax-tun     | Creciste entre canales ordenados, pirámides blanqueadas de hasta<br> 10 pisos y un zoológico lleno de animales exóticos, siendo<br> testigo de la grandeza de la capital Jadeíta.     |   INTELIGENCIA +2 |
 {{< /table >}}
-{{< /collapse >}}
 <br>
 
 ## SUBCULTURA
@@ -33,7 +31,7 @@ Los Guardianes de los Códices rinden homenaje a Itzamná, el dios de la sabidur
 Se dedican a la conservación y estudio de los códices que narran la historia y los secretos del imperio. En sus manos, los pergaminos de piel de venado cobran vida, revelando conocimientos ancestrales sobre astronomía, medicina, rituales y profecías. Residen en la Gran Biblioteca de Yax-tun, un edificio majestuoso construido con piedra caliza blanca y adornado con intrincados relieves. Su profundo conocimiento les otorga un estatus especial en la sociedad, y son a menudo consultados por líderes y sacerdotes en asuntos de gran importancia.
 
 
-{{< collapse title="Perks de Subcultura" >}} 
+
 {{< table style="table-hover" >}}
 | Perk | Descripción | Efecto |
 | :------------- |:-------------| :-----|
@@ -41,7 +39,6 @@ Se dedican a la conservación y estudio de los códices que narran la historia y
 | Protector del Conocimiento     | Defiendes con pasión los códices y su contenido, lo que te<br> otorga una resistencia mental superior.     |   VOLUNTAD +2 |
 
 {{< /table >}}
-{{< /collapse >}}
 <br>
 
 - ### Cantores de Yax-tun
@@ -51,7 +48,7 @@ Los Cantores de Yax-tun cantan himnos en honor a K'awiil, el dios del rayo y pat
 
 Estos viajeros, con sus vestimentas coloridas y sus instrumentos hechos de conchas y huesos, son la voz viva de la historia jadeíta. A través de sus melodías y relatos, evocan batallas épicas, amores trágicos y hazañas de dioses y héroes. Se dice que algunos Cantores poseen la habilidad de invocar recuerdos del pasado en aquellos que escuchan sus canciones, permitiendo a los oyentes experimentar eventos históricos como si estuvieran allí.
 
-{{< collapse title="Perks de Subcultura" >}} 
+
 {{< table style="table-hover" >}}
 | Perk | Descripción | Efecto |
 | :------------- |:-------------| :-----|
@@ -59,7 +56,6 @@ Estos viajeros, con sus vestimentas coloridas y sus instrumentos hechos de conch
 | Memoria Histórica    | Recuerdas historias y leyendas que otros han olvidado.     |   SABIDURÍA +2 |
 
 {{< /table >}}
-{{< /collapse >}}
 <br>
 
 - ### Artesanos de Obsidiana
@@ -69,7 +65,7 @@ Los Artesanos de Obsidiana dedican sus creaciones a Hunahpú, el héroe gemelo c
 
 En talleres iluminados por antorchas, estos maestros artesanos trabajan la obsidiana, un material volcánico negro y brillante, transformándola en herramientas, armas y joyas de increíble belleza. Su habilidad es tan renombrada que se dice que pueden capturar la esencia de los dioses en sus creaciones. Las piezas más exquisitas a menudo llevan incrustaciones de jade y turquesa, y son codiciadas por la nobleza y los sacerdotes por su poder y belleza.
 
-{{< collapse title="Perks de Subcultura" >}} 
+
 {{< table style="table-hover" >}}
 | Perk | Descripción | Efecto |
 | :------------- |:-------------| :-----|
@@ -77,7 +73,6 @@ En talleres iluminados por antorchas, estos maestros artesanos trabajan la obsid
 | Bendición de Hunahpú    | Tus creaciones llevan una energía divina que las hace<br> especialmente poderosas.     |   FUERZA +2 |
 
 {{< /table >}}
-{{< /collapse >}}
 <br>
 
 - ### Navegantes Estelares
@@ -87,7 +82,6 @@ Los Navegantes Estelares buscan la guía de Ahau Kin, el dios del sol, para nave
 
 Estos astrónomos y navegantes, con sus ojos siempre puestos en el firmamento, utilizan antiguos telescopios de bronce y mapas estelares para guiar a los barcos jadeítas a través del Mar Medio y más allá. Se dice que pueden leer el destino en las estrellas y que sus predicciones astronómicas nunca fallan. Durante los equinoccios y solsticios, lideran grandes ceremonias en el Observatorio de Yax-tun, donde la población se reúne para rendir homenaje a los dioses celestiales.
 
-{{< collapse title="Perks de Subcultura" style="secondary">}} 
 {{< table style="table-hover" >}}
 | Perk | Descripción | Efecto |
 | :------------- |:-------------| :-----|
@@ -95,7 +89,6 @@ Estos astrónomos y navegantes, con sus ojos siempre puestos en el firmamento, u
 | Astrónomo Experto    | Tu conocimiento del firmamento te permite predecir eventos<br> astronómicos.     |   INTELIGENCIA +2 |
 
 {{< /table >}}
-{{< /collapse >}}
 <br>
 
 - ### Guardianes de la Selva
@@ -105,7 +98,6 @@ Los Guardianes de la Selva rinden homenaje a Yum Kaax, el protector de la natura
 
 Estos protectores de la naturaleza, con sus túnicas verdes y sus máscaras de animales, tienen un conocimiento profundo de la selva que rodea Yax-tun. Conocen cada árbol, cada planta y cada criatura que habita en la espesura. Se dice que pueden comunicarse con los espíritus de la selva y que son capaces de invocar a las bestias para que les ayuden en tiempos de necesidad. Su papel es esencial para mantener el equilibrio entre la civilización y la naturaleza.
 
-{{< collapse title="Perks de Subcultura" style="secondary">}} 
 {{< table style="table-hover" >}}
 | Perk | Descripción | Efecto |
 | :------------- |:-------------| :-----|
@@ -113,7 +105,6 @@ Estos protectores de la naturaleza, con sus túnicas verdes y sus máscaras de a
 | Protector de la Selva   | Tu conexión con la naturaleza te otorga una resistencia superior.     |   CONSTITUCIÓN +2 |
 
 {{< /table >}}
-{{< /collapse >}}
 <br>
 
 - ### Cazadores de Sombras
@@ -123,7 +114,6 @@ Los Cazadores de Sombras invocan a Camazotz, el dios murciélago, para obtener e
 
 Operando en secreto, estos espías y recolectores de información son los ojos y oídos del emperador en todo el imperio. Con sus túnicas oscuras y sus habilidades de sigilo, se infiltran en las cortes enemigas, recolectan secretos y, cuando es necesario, eliminan a aquellos que amenazan la estabilidad de Jade. Aunque pocos conocen su verdadera identidad, su presencia se siente en todo el imperio, y se dice que pueden estar en cualquier lugar y en ningún lugar al mismo tiempo.
 
-{{< collapse title="Perks de Subcultura" style="secondary">}} 
 {{< table style="table-hover" >}}
 | Perk | Descripción | Efecto |
 | :------------- |:-------------| :-----|
@@ -131,7 +121,6 @@ Operando en secreto, estos espías y recolectores de información son los ojos y
 | Ojos y Oídos del Emperador   | Tu habilidad para recolectar información es insuperable.     |   PERCEPCIÓN +2 |
 
 {{< /table >}}
-{{< /collapse >}}
 <br>
 
 - ### Danzantes de la Lluvia
@@ -141,7 +130,6 @@ Los Danzantes de la Lluvia realizan sus danzas en honor a Chaac, el dios de la l
 
 Con sus vestimentas de plumas y sus máscaras de dioses del agua, estos danzantes realizan rituales para invocar a los dioses de la lluvia. A través de sus movimientos y cánticos, evocan a las nubes y piden que las lluvias nutran la tierra. En tiempos de sequía, su papel es esencial, y se dice que su conexión con los elementos puede cambiar el curso de las estaciones.
 
-{{< collapse title="Perks de Subcultura" style="secondary">}} 
 {{< table style="table-hover" >}}
 | Perk | Descripción | Efecto |
 | :------------- |:-------------| :-----|
@@ -149,7 +137,6 @@ Con sus vestimentas de plumas y sus máscaras de dioses del agua, estos danzante
 | Conexión Elemental   | Tienes una afinidad especial con el elemento agua.     |   CONSTITUCIÓN +2 |
 
 {{< /table >}}
-{{< /collapse >}}
 <br>
 
 - ### Maestros del Juego de Pelota
@@ -159,7 +146,6 @@ Los Maestros del Juego de Pelota compiten en honor a Hun Hunahpú, el dios del j
 
 Estos atletas, con sus cuerpos esculpidos y sus uniformes de cuero, compiten en el Gran Estadio de Yax-tun, donde miles se reúnen para ver el famoso juego de pelota. A través de este deporte, se rinden homenajes a los dioses y se resuelven conflictos entre las ciudades. Se dice que los mejores jugadores son bendecidos por los dioses y que su habilidad en el campo puede decidir el destino de naciones enteras.
 
-{{< collapse title="Perks de Subcultura" style="secondary">}} 
 {{< table style="table-hover" >}}
 | Perk | Descripción | Efecto |
 | :------------- |:-------------| :-----|
@@ -167,7 +153,6 @@ Estos atletas, con sus cuerpos esculpidos y sus uniformes de cuero, compiten en 
 | Campeón del Estadio  | Eres una celebridad en Yax-tun, lo que te otorga un carisma especial.     |   CARISMA +2 |
 
 {{< /table >}}
-{{< /collapse >}}
 <br>
 
 - ### Alquimistas de Jade
@@ -177,7 +162,6 @@ Los Alquimistas de Jade buscan la guía de Ix Chel, la diosa de la medicina y la
 
 En sus talleres llenos de frascos y pergaminos, estos maestros de la alquimia transforman ingredientes comunes en poderosos elixires y pociones. Utilizando antiguos textos y recetas, crean brebajes que pueden curar enfermedades, otorgar fuerza sobrehumana o incluso cambiar el curso del destino. Su conocimiento es altamente valorado, y se dice que incluso el emperador consulta a estos alquimistas en asuntos de gran importancia.
 
-{{< collapse title="Perks de Subcultura" style="secondary">}} 
 {{< table style="table-hover" >}}
 | Perk | Descripción | Efecto |
 | :------------- |:-------------| :-----|
@@ -185,7 +169,6 @@ En sus talleres llenos de frascos y pergaminos, estos maestros de la alquimia tr
 | Bendición de Ix Chel  | Tus creaciones llevan una energía curativa especial.     |   CONSTITUCIÓN +2 |
 
 {{< /table >}}
-{{< /collapse >}}
 <br>
 
 - ### Guardianes de las Pirámides
@@ -195,7 +178,6 @@ Los Guardianes de las Pirámides rinden homenaje a Kukulkán, la serpiente emplu
 
 Estos protectores de la arquitectura, con sus túnicas de lino blanco y sus bastones de mando, vigilan y mantienen las grandes pirámides y templos de Yax-tun. Conocen cada piedra, cada pasaje secreto y cada inscripción en estos monumentos. Se dice que tienen un pacto con los dioses de la arquitectura y que su dedicación garantiza que las maravillas de Yax-tun perduren por generaciones.
 
-{{< collapse title="Perks de Subcultura" style="secondary">}} 
 {{< table style="table-hover" >}}
 | Perk | Descripción | Efecto |
 | :------------- |:-------------| :-----|
@@ -203,7 +185,6 @@ Estos protectores de la arquitectura, con sus túnicas de lino blanco y sus bast
 | Bendición de Kukulkán  | Tus habilidades de construcción y mantenimiento son insuperables.     |   DESTREZA +2 |
 
 {{< /table >}}
-{{< /collapse >}}
 <br>
 
 ## CLASES SOCIALES
@@ -217,14 +198,12 @@ _"¡Ah, un Noble Jadeita! Nacido en la cuna de la opulencia y el poder. Mientras
 
 Los Nobles Jadeitas representan menos del 1% de la población de Yax-tun. Son una clase hereditaria que produce al emperador y a muchos altos funcionarios. Estos nobles tienen muchas obligaciones hacia los dioses y sus vasallos: deben llevar una vida moral, proteger al pueblo de desastres almacenando reservas de alimentos y distribuir sus propias riquezas entre sus subordinados. Sin embargo, también disfrutan de muchos privilegios, como usar las mejores armas y vestir las mejores ropas. Su posición les otorga una confianza innata y una sensación de responsabilidad, pero también pueden desarrollar una cierta desconexión con las clases más bajas, viendo el mundo desde su torre de marfil.
 
-{{< collapse title="Perks de Clase">}} 
 {{< table style='table-hover' >}}
 | Perks                | Descripción                                                                 | Efecto        |
 |:-------------------- |:----------------------------------------------------------------------------|:------------- |
 | Líder Nato | Tu cuna de opulencia te ha dotado de habilidades de liderazgo innatas y una confianza inquebrantable. |  CARISMA +8, <br> INTELIGENCIA +5  |
 | Desconexión Social | Desde tu torre de marfil, a veces te resulta difícil comprender las luchas de las clases más bajas. |  EMPATÍA -4  |
-{{< /table >}}
-{{< /collapse >}} <br>
+{{< /table >}} <br>
 
 ### Atzibatbal, Guerrero Ungido.
 
@@ -232,14 +211,12 @@ _"Un ungido Jadeita, el epítome del honor y la valentía. Ya sea un Águila o u
 
 Los Guerreros Ungidos Jadeitas, ya sean del orden del Águila(Cuaocelotl) o del Jaguar(Ocelotl), son conocidos por su destreza en el combate. Estos órdenes estaban abiertos a todos los que demostraran proeza en tiempos de guerra. La mayoría de los ungidos eran nobles, pero algunos habían progresado desde órdenes de comunes. Estos guerreros podían vestir trajes de guerra hechos de pieles de animales, y sus hijos automáticamente se convertían en "pilli" y podían asistir al calmecac, una institución educativa. Su valentía y habilidades en el combate les otorgan un fuerte sentido del honor y la lealtad, y a menudo son vistos como protectores y líderes en sus comunidades.
 
-{{< collapse title="Perks de Clase">}} 
 {{< table style='table-hover' >}}
 | Perks                | Descripción                                                                 | Efecto        |
 |:-------------------- |:----------------------------------------------------------------------------|:------------- |
 | Valentía Legendaria | Tu destreza en el combate es conocida en todo Yax-tun, haciéndote un formidable adversario. |  FUERZA +7 <br> AGILIDAD +6  |
 | Código de Honor | Tu sentido del honor y la lealtad a veces te impide actuar de manera deshonesta o traicionera. |  CARISMA +4 <br> ASTUCIA -3  |
-{{< /table >}}
-{{< /collapse >}} <br>
+{{< /table >}} <br>
 
 ### Tlamacazqui, Sacerdotes Jadeítas.
 
@@ -253,14 +230,12 @@ El sacerdote más alto es el emperador. Él lidera muchas ceremonias e incluso s
 
 Su profunda conexión con lo divino les otorga una serenidad y sabiduría que inspira respeto y a veces temor en otros. Son vistos como guías espirituales y consejeros, y su palabra a menudo se toma como ley.
 
-{{< collapse title="Perks de Clase">}} 
 {{< table style='table-hover' >}}
 | Perks                | Descripción                                                                 | Efecto        |
 |:-------------------- |:----------------------------------------------------------------------------|:------------- |
 | Conexión Divina | Tu profunda conexión con los dioses te otorga habilidades místicas y un entendimiento del cosmos. |  SABIDURÍA +9 <br> INTELIGENCIA +5  |
 | Voto de Castidad | Tu dedicación a los dioses te impide formar relaciones íntimas. |  CARISMA -3  |
-{{< /table >}}
-{{< /collapse >}} <br>
+{{< /table >}} <br>
 
 ### Maceualli, Comunes y Campesinos.
 
@@ -270,14 +245,12 @@ Los Comunes y Campesinos, forman la mayoría de la sociedad de Yax-tun. Como ciu
 
 Aunque son libres en muchos aspectos de su vida, los Comunes Jadeitas tienen deberes hacia el estado y la comunidad. Su vida está marcada por el trabajo duro y la dedicación a la tierra y a los dioses. A pesar de no tener el estatus de la nobleza, su papel es esencial para el funcionamiento y prosperidad de Yax-tun. Su vida está marcada por el trabajo duro y la dedicación a la tierra y a los dioses. A pesar de no tener el estatus de la nobleza, su papel es esencial para el funcionamiento y prosperidad de Yax-tun. Esta conexión con la tierra y la comunidad les otorga una humildad y una ética de trabajo que es admirada por muchos.
 
-{{< collapse title="Perks de Clase">}} 
 {{< table style='table-hover' >}}
 | Perks                | Descripción                                                                 | Efecto        |
 |:-------------------- |:----------------------------------------------------------------------------|:------------- |
 | Trabajador Incansable | Tu vida de trabajo duro te ha dotado de una resistencia y ética de trabajo inigualable. |  CONSTITUCIÓN +6 <br> FUERZA +5  |
 | Humildad | Tu conexión con la tierra y la comunidad te hace humilde y fácil de relacionar. |  CARISMA +4  |
-{{< /table >}}
-{{< /collapse >}} <br>
+{{< /table >}} <br>
 
 ### Noble Provinciano Jadeíta.
 
@@ -285,14 +258,12 @@ _"¡Un Noble de Provincia! No tan glamoroso como los nobles de Yax-tun, pero al 
 
 Los Nobles de Provincia Jadeita son los señores de las tierras alejadas de la capital. Aunque no tienen el estatus o el poder de los nobles de Yax-tun, poseen vastas propiedades, plantaciones y fábricas. Estos nobles son responsables de supervisar la producción y garantizar que se pague el tributo adecuado al emperador. A menudo tienen conflictos con los Campesinos Jadeitas, ya que dependen de ellos para trabajar la tierra y producir bienes. Aunque no están en el centro de atención como los nobles de la capital, su influencia en las provincias es innegable. Son vistos como líderes y protectores en sus comunidades, y a menudo tienen una conexión más profunda con la tierra y la gente que los rodea.
 
-{{< collapse title="Perks de Clase">}} 
 {{< table style='table-hover' >}}
 | Perks                | Descripción                                                                 | Efecto        |
 |:-------------------- |:----------------------------------------------------------------------------|:------------- |
 | Líder Local | Aunque no estés en el centro de atención, tu influencia en las provincias es innegable. |  CARISMA +6 <br> SABIDURÍA +5  |
 | Conexión Terrenal | Tu profunda conexión con la tierra y la gente te otorga una perspectiva única. |  EMPATÍA +6  |
-{{< /table >}}
-{{< /collapse >}} <br>
+{{< /table >}} <br>
 
 ### Ximbal, Extranjero.
 
@@ -302,14 +273,12 @@ Los xíimbales que llegan a la Civilización de Jade son una rareza. Muchos prov
 
 A pesar de las diferencias culturales y las barreras del idioma, muchos extranjeros deciden establecerse aquí, fascinados por su esplendor y las riquezas que ofrece. Aunque siempre hay una cierta desconfianza hacia los forasteros, también hay un profundo respeto por aquellos que eligen hacer de Jade su hogar. Su perspectiva única y habilidades a menudo los hacen valiosos en la comunidad, y muchos encuentran un hogar lejos de casa en Yax-tun.
 
-{{< collapse title="Perks de Clase">}} 
 {{< table style='table-hover' >}}
 | Perks                | Descripción                                                                 | Efecto        |
 |:-------------------- |:----------------------------------------------------------------------------|:------------- |
 | Forastero | Tu origen extranjero te otorga habilidades y conocimientos que muchos en Yax-tun no poseen. |  INTELIGENCIA +2 <br> ASTUCIA +3  |
 | CARISMA | A pesar de tus habilidades, siempre serás visto como un extranjero en Yax-tun. |  CARISMA -4  |
-{{< /table >}}
-{{< /collapse >}} <br>
+{{< /table >}} <br>
 
 ### Tlacotin, Esclavo.
 
@@ -323,14 +292,12 @@ A pesar de su estatus, muchos esclavos son altamente valorados por sus habilidad
 
 Sin embargo, no todo es color de rosa. Aunque algunos esclavos son tratados con amabilidad y respeto, otros sufren abusos y maltratos. Y aunque es posible comprar tu libertad o ser liberado por tu maestro, la mayoría de los esclavos nunca experimentan la libertad en su vida. A pesar de las dificultades, muchos esclavos encuentran consuelo en la comunidad y en la fe, y se aferran a la esperanza de un futuro mejor.
 
-{{< collapse title="Perks de Clase">}} 
 {{< table style='table-hover' >}}
 | Perks                | Descripción                                                                 | Efecto        |
 |:-------------------- |:----------------------------------------------------------------------------|:------------- |
 | Resiliente | A pesar de tu estatus, tu capacidad para adaptarte y perseverar es una prueba de tu fortaleza. |  CONSTITUCIÓN +7 <br> FUERZA +5  |
 | Sin Voz | Aunque eres valioso, raramente se te permite expresar tu opinión o tomar decisiones. |  CARISMA -6  |
-{{< /table >}}
-{{< /collapse >}} <br>
+{{< /table >}} <br>
 
 ## TIPOS DE PERSONAJES
 ---
