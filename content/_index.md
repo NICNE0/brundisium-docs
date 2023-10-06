@@ -9,4 +9,4 @@ Este sitio alberga todos los documentos relacionados con el lore, las reglas de 
 
  <p><img src="flag.jpg" alt="Bandera de Brundisium"  height="150"></p>
 
-{{< panel title="¡Cuidado!" style="info" >}} El contenido de esta página es áltamente friki y adictivo {{< /panel >}}
+
